@@ -1,4 +1,4 @@
-# Herramientas-Software
+#investigacion.txt
 
 **Nombre del estudiante:** Claudia Lisseth Arévalo Ramírez
 
@@ -15,4 +15,3 @@
 - JIRA
 - Trello
 - Asana
-- 
