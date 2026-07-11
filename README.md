@@ -1,7 +1,11 @@
-# Herramientas-SoftwareNombre del estudiante: Claudia Lisseth Arévalo Ramírez
-Especialidad: Bachillerato Técnico Vocacional en Desarrollo de Software
+# Herramientas-Software
 
-Herramientas investigadas:
+**Nombre del estudiante:** Claudia Lisseth Arévalo Ramírez
+
+**Especialidad:** Bachillerato Técnico Vocacional en Desarrollo de Software
+
+## Herramientas investigadas
+
 - Git
 - GitHub
 - GitLab
@@ -11,3 +15,4 @@ Herramientas investigadas:
 - JIRA
 - Trello
 - Asana
+- 
